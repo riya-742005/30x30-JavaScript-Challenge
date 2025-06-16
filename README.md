@@ -8,3 +8,5 @@ A challenge to build 30 JavaScript projects in 30 days.
 |-----|---------|------|
 | 01  | Weather App | [View Folder](./Day01_WeatherApp) |
 | 02  | Calculator App | [View Folder](./Day02_CalculatorApp) |
+| 03  | Todo-list  | [View Folder](./Day03_Todo-list) |
+
